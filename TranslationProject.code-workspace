@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../TranslationProject"
+		},
+		{
+			"path": "../Fun Soccer Project"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"pa4-starter/pa4-student/src/mysteries.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
